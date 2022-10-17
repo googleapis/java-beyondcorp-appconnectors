@@ -75,7 +75,7 @@
       <dependency>
         <groupId>com.google.api.grpc</groupId>
         <artifactId>proto-google-cloud-beyondcorp-appconnectors-v1</artifactId>
-        <version>0.1.1-SNAPSHOT</version><!-- {x-version-update:proto-google-cloud-beyondcorp-appconnectors-v1:current} -->
+        <version>0.2.0</version><!-- {x-version-update:proto-google-cloud-beyondcorp-appconnectors-v1:current} -->
       </dependency>
     </dependencies>
   </dependencyManagement>
